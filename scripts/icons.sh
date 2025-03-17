@@ -59,14 +59,14 @@ icon() {
             ;;
             # Clear group
         800)
-            [[ $NERD_FONT == 1 ]] && echo ' ' || echo '☼ '
+            [[ $NERD_FONT == 1 ]] && echo ' ' || echo '🌞 '
             ;;
             # Clouds group
         801)
             [[ $NERD_FONT == 1 ]] && echo ' ' || echo '🌤 '
             ;;
         802 | 804)
-            [[ $NERD_FONT == 1 ]] && echo ' ' || echo '☁ '
+            [[ $NERD_FONT == 1 ]] && echo ' ' || echo '🌥 '
             ;;
         803)
             [[ $NERD_FONT == 1 ]] && echo ' ' || echo '🌥 '
